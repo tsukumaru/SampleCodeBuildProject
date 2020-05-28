@@ -1,3 +1,7 @@
 version: 0.2
 
 run-as: test-user
+
+env:
+  variables:
+    Name: poyopoyo
